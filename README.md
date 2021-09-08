@@ -7,26 +7,27 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
     Objetivo General 
     
-    - Analizar e Identificar  el funcionamientos y sus componentes del transformador  mediante los distintos temas
-    y conocimients adquiridos en el capíyulo 23 y ver circuitos complejos para lograr mayor conocimiento con los temas trabajados. 
+    - Analizar e Identificar los teoremas de redes mediante los distintos métodos de resolución que se tiene 
+    para resolver circuitos complejos para lograr mayor conocimiento con los temas trabajados. 
 
-    - Analizar el funcionamiento de los transformadores, circuitos acoplados y sistemas de tres fases mediante el reconocimiento 
-    del funcionamiento de los métodos de resolución que se puede observar en los capítulos 23 y 24  del libro de estudio.
+    - Analizar el funcionamiento de los capacitores y su capacitancia de almacenar energía mediante los 
+    métodos de resolución que se puede observar en el capitulo 10 del libro de estudio.
 
     Objetivos Específicos
     
+    - Comprender el funcionamiento de un transformador como elevador y reductor.
+    - Experimentar el concepto de polaridad aditiva y sustractiva de un circuito acoplado.
+    - Determinar la relación de transformación de un transformador monofásico.
+    
  
     
-
-
-
 # 2. Marco Teórico
 
-![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Marco%20Te%C3%B3rico%20Transformador.JPG)
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Circuitos%20Acoplados.PNG)
 
 # 3. Explicación y Resolución
  
-
+15. Para cada circuito de la figura 23-75, determine ZT
 
 
 
@@ -36,7 +37,12 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 # 5. Conclusiones
 
-
+- Existen  varios  tipos  de transformadores  con  diferentes funciones.
+- Fue posible definir la inductancia mutua M como la proporción entre la fuerza electromagnética generada 
+en una de las bobinas, y el cambio en la corriente en la bobina que origina dicha fuerza electromagnética.
+- Se describe que es más convenientemente en términos de inductancia mutua, cuando en ambas partes del transformador 
+fluye igualmente la corriente y así poder suministrar más energía. Es por esto que la aplicación más usual de la inductancia mutua
+es el transformador.
  
 
 # 6. Bibliografia 
