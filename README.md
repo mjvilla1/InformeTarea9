@@ -156,6 +156,15 @@ carga?
 
 ![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.27.PNG)
 
+##Capitulo 24
+
+Para la figura 24-49, Van  120 V∠0°. Dibuje el equivalente de una sola
+fase y:
+
+a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
+
+b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
+
 # 4. Video
 
 
