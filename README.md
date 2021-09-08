@@ -165,7 +165,7 @@ a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
 
 b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 
-![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2024.23.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2024.21.PNG)
 
 23. Para la figura 24-48, EAN  120 V∠-10°. Encuentre la corriente de línea con
 el método equivalente de una sola fase.
