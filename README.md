@@ -29,6 +29,10 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
  
 15. Para cada circuito de la figura 23-75, determine ZT
 
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.15.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.15.1.PNG)
+
 
 
 
