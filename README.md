@@ -33,7 +33,8 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 ![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.15.1.PNG)
 
-
+17. Un transformador tiene una especificación de voltaje primario de 7.2 kV, a 
+0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación de kVA?
 
 
 # 4. Video
