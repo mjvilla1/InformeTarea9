@@ -90,6 +90,8 @@ c. ZL
 
 ![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/imagen%2023%209.JPG)
 
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.9.JPG)
+
 a. VL 
 
 160V |-23,1°
