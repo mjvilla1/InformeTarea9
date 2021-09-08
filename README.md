@@ -29,6 +29,48 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 # 3. Explicación y Resolución
  
+## Capítulo 23 
+
+1 Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan.
+
+
+3 Un transformador ideal tiene Np=1000 vueltas y Ns=4000 vueltas.
+
+ a. ¿El voltaje se eleva o se reduce?
+
+ b. Si es=100 sen qt, ¿qué valor tiene ep cuando se devana como en la figura 23-7(a)? 
+
+c. Si Es=24 volts, ¿qué valor tiene Ep? 
+
+d. Si Ep=24 V∠0, ¿qué valor tiene Es cuando se devana como en la figura 23-7(a)? 
+
+e. Si Ep=800 V∠0, ¿qué valor tiene Es cuando se devana como en la figura 23-7(b)?
+
+
+5 Para la figura 23-72, determine las expresiones para v1, v2 y v3.
+
+
+7 Si, para la figura 23-73, Eg=240 V∠0, a=0.5, e Ig=2 A∠20, determine lo siguiente: 
+
+a. IL 
+
+b. VL
+
+c. ZL
+
+
+9 Si, para la figura 23-73, a=4, Ig=4 A∠30, y ZL=6-j8 , determine lo siguiente: 
+
+a. VL 
+
+b. Eg
+
+
+11 Para cada circuito de la figura 23-74, determine Zp.
+
+
+13 Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp=(62.5-j125)ohm?
+ 
 15. Para cada circuito de la figura 23-75, determine ZT
 
 ![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.15.PNG)
