@@ -185,7 +185,9 @@ Vab  600 V∠30°. Determine EAB.
 
 31. Para la figura 24-21(a), ZY  15 Ω + j20 Ω, Z  9 Ω - j12 Ω, Zlínea 
 0.1 Ω + j0.1 Ω, e Ia`b`  40 A∠73.13°. Encuentre el voltaje de fase Y Van,
-magnitud y ángulo
+magnitud y ángulo.
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2024.31.PNG)
 
 # 4. Video
 
