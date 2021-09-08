@@ -92,6 +92,8 @@ a. I1    b. I2   c. IN   d. Ip
 
 ![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.19.1.PNG)
 
+21. Un amplificador con un equivalente de Thévenin de 10 V y RTh de 25Ω maneja una bocina de 4Ω a través de un transformador con una relación de vueltas de a=5.
+¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?
 
 # 4. Video
 
