@@ -183,6 +183,7 @@ Vab  600 V∠30°. Determine EAB.
 
 # 4. Video
 
+https://youtu.be/Q7Zjy6WvkIg
 
 # 5. Conclusiones
 
