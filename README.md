@@ -36,7 +36,9 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 17. Un transformador tiene una especificación de voltaje primario de 7.2 kV, a 
 0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación de kVA?
 
-19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.17.PNG)
+
+19.El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas
 de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de
 2400 W con Fp  1.0, determine
 
