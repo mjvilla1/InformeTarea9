@@ -176,6 +176,8 @@ el método equivalente de una sola fase.
 0.15 Ω + j0.25 Ω y EAN  120 V∠0°. Convierta la carga Δ en Y y use el
 equivalente de una fase para encontrar las corrientes de línea.
 
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2024.25.PNG)
+
 # 4. Video
 
 
