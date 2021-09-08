@@ -7,11 +7,11 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
     Objetivo General 
     
-    - Analizar e Identificar los teoremas de redes mediante los distintos métodos de resolución que se tiene 
-    para resolver circuitos complejos para lograr mayor conocimiento con los temas trabajados. 
+    - Analizar e Identificar  el funcionamientos y sus componentes del transformador  mediante los distintos temas y 
+    conocimients adquiridos en el capíyulo 23 y ver circuitos complejos para lograr mayor conocimiento con los temas trabajados. 
 
-    - Analizar el funcionamiento de los capacitores y su capacitancia de almacenar energía mediante los 
-    métodos de resolución que se puede observar en el capitulo 10 del libro de estudio.
+    - Analizar el funcionamiento de los transformadores, circuitos acoplados y sistemas de tres fases mediante el reconocimiento 
+    del funcionamiento de los métodos de resolución que se puede observar en los capítulos 23 y 24  del libro de estudio.
 
     Objetivos Específicos
     
@@ -22,6 +22,8 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
  
     
 # 2. Marco Teórico
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Marco%20Te%C3%B3rico%20Transformador.JPG)
 
 ![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Circuitos%20Acoplados.PNG)
 
