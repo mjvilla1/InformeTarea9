@@ -33,45 +33,89 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
  
 ## Capítulo 23 
 
-1 Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan.
+1.-Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan.
 
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.1.JPG)
 
-3 Un transformador ideal tiene Np=1000 vueltas y Ns=4000 vueltas.
+3.-Un transformador ideal tiene Np=1000 vueltas y Ns=4000 vueltas.
 
  a. ¿El voltaje se eleva o se reduce?
 
- b. Si es=100 sen qt, ¿qué valor tiene ep cuando se devana como en la figura 23-7(a)? 
+  Se eleva 
+
+ b. Si es=100 sen qt, ¿qué valor tiene ep cuando se devana como en la figura 23-7(a)?
+
+ 25 senwtV 
 
 c. Si Es=24 volts, ¿qué valor tiene Ep? 
 
+  6V
+
 d. Si Ep=24 V∠0, ¿qué valor tiene Es cuando se devana como en la figura 23-7(a)? 
+
+  96V|0°
 
 e. Si Ep=800 V∠0, ¿qué valor tiene Es cuando se devana como en la figura 23-7(b)?
 
+3200V|180°
 
-5 Para la figura 23-72, determine las expresiones para v1, v2 y v3.
 
+5.-Para la figura 23-72, determine las expresiones para v1, v2 y v3.
 
-7 Si, para la figura 23-73, Eg=240 V∠0, a=0.5, e Ig=2 A∠20, determine lo siguiente: 
+![](
+
+v1=24 senwtV
+
+v2=144sen(wt+180°)V
+
+v3=48senwtV
+
+7.-Si, para la figura 23-73, Eg=240 V∠0, a=0.5, e Ig=2 A∠20, determine lo siguiente: 
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/imagen%2023%209.JPG)
 
 a. IL 
 
+I A|20°
+
 b. VL
+
+480V|0°
 
 c. ZL
 
+480Ω |-20°
 
-9 Si, para la figura 23-73, a=4, Ig=4 A∠30, y ZL=6-j8 , determine lo siguiente: 
+9.-Si, para la figura 23-73, a=4, Ig=4 A∠30, y ZL=6-j8 , determine lo siguiente: 
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/imagen%2023%209.JPG)
 
 a. VL 
 
+160V |-23,1°
+
 b. Eg
 
+640V|-23,10°
 
-11 Para cada circuito de la figura 23-74, determine Zp.
+11.-Para cada circuito de la figura 23-74, determine Zp.
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Imagen%2023-74.JPG)
+
+a. 40Ω -j80Ω
+
+b. 1.25Ω+j2Ω
+
+13.-Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp=(62.5-j125)ohm?
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/23-74%20a.JPG)
+
+Significa que la fuente (ve) a ZL como la relación de vueltas del transformador al cuadrado multiplicado
+por la impedancia de carga, mantiene las características de carga .
 
 
-13 Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Zp=(62.5-j125)ohm?
+
+
  
 15. Para cada circuito de la figura 23-75, determine ZT
 
