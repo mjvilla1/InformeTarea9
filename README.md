@@ -88,6 +88,10 @@ de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de
 
 a. I1    b. I2   c. IN   d. Ip
 
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.19.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.19.1.PNG)
+
 
 # 4. Video
 
