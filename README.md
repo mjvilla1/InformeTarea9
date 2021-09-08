@@ -181,6 +181,12 @@ equivalente de una fase para encontrar las corrientes de línea.
 27. Para el circuito de la figura 24-49, suponga que Zlínea  0.15 Ω + j0.25 Ω y
 Vab  600 V∠30°. Determine EAB.
 
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2024.27.PNG)
+
+31. Para la figura 24-21(a), ZY  15 Ω + j20 Ω, Z  9 Ω - j12 Ω, Zlínea 
+0.1 Ω + j0.1 Ω, e Ia`b`  40 A∠73.13°. Encuentre el voltaje de fase Y Van,
+magnitud y ángulo
+
 # 4. Video
 
 https://youtu.be/Q7Zjy6WvkIg
