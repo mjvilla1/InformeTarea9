@@ -62,7 +62,7 @@ e. Si Ep=800 V∠0, ¿qué valor tiene Es cuando se devana como en la figura 23-
 
 5.-Para la figura 23-72, determine las expresiones para v1, v2 y v3.
 
-![](
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Imagen%2023-72.JPG)
 
 v1=24 senwtV
 
