@@ -108,6 +108,8 @@ y Eg  120 V∠0°. Encuentre cada corriente de carga y la corriente del generado
 280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta
 carga?
 
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.27.PNG)
+
 # 4. Video
 
 
