@@ -27,6 +27,8 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 ![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Circuitos%20Acoplados.PNG)
 
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Sistemasa%20trifasicos.jpg)
+
 # 3. Explicación y Resolución
  
 ## Capítulo 23 
