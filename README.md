@@ -158,12 +158,23 @@ carga?
 
 ## Capitulo 24
 
-Para la figura 24-49, Van  120 V∠0°. Dibuje el equivalente de una sola
+21. Para la figura 24-49, Van  120 V∠0°. Dibuje el equivalente de una sola
 fase y:
 
 a. Encuentre el voltaje de fase EAN, magnitud y ángulo.
 
 b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2024.23.PNG)
+
+23. Para la figura 24-48, EAN  120 V∠-10°. Encuentre la corriente de línea con
+el método equivalente de una sola fase.
+
+![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2024.23.PNG)
+
+25. Para la figura 24-48, suponga que las líneas tienen una impedancia Zlínea de
+0.15 Ω + j0.25 Ω y EAN  120 V∠0°. Convierta la carga Δ en Y y use el
+equivalente de una fase para encontrar las corrientes de línea.
 
 # 4. Video
 
