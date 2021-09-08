@@ -104,6 +104,10 @@ y Eg  120 V∠0°. Encuentre cada corriente de carga y la corriente del generado
 
 ![](https://github.com/mjvilla1/ImagenesTarea9/blob/main/Ejercicio%2023.23.PNG)
 
+27. Un transformador que entrega Psal  48 kW tiene un pérdida en el núcleo de
+280 W y una pérdida en el cobre de 450 W. ¿Cuál es su eficiencia a esta
+carga?
+
 # 4. Video
 
 
